@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historias visuales on Alcorques con rejilla</title>
+    <link>http://localhost:4321/fotorreportaje/</link>
+    <description>Recent content in Historias visuales on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/fotorreportaje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catedral</title>
+      <link>http://localhost:4321/fotorreportaje/catedral/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/fotorreportaje/catedral/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;1.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;3.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;4.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;5.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;6.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;7.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;8.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;9.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;10.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;11.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;12.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;13.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;14.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;15.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;16.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;17.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;18.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;19.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;20.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;21.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;22.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Puente a Katembe</title>
+      <link>http://localhost:4321/fotorreportaje/puente-a-katembe/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/fotorreportaje/puente-a-katembe/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;1.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;2.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;3.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;5.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;6.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;8.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;9.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;10.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;11.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;12.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;13.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;14.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;15.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;16.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;17.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;18.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;19.JPG&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;20.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bloques</title>
+      <link>http://localhost:4321/fotorreportaje/bloques/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/fotorreportaje/bloques/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;brasilia.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;brasilia(1).jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;bsb.jpg&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;IMG_4824.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

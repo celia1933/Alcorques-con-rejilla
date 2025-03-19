@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artículos on Alcorques con rejilla</title>
+    <link>http://localhost:4321/articulos/</link>
+    <description>Recent content in Artículos on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:4321/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las Kalendas de Aliste</title>
+      <link>http://localhost:4321/articulos/las-kalendas-de-aliste/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>http://localhost:4321/articulos/las-kalendas-de-aliste/</guid>
+      <description>&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>De rave en el siglo 18</title>
+      <link>http://localhost:4321/articulos/de-rave-en-el-siglo-xviii/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/articulos/de-rave-en-el-siglo-xviii/</guid>
+      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>El puzzle y el territorio</title>
+      <link>http://localhost:4321/articulos/el-puzzle-y-el-territorio/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/articulos/el-puzzle-y-el-territorio/</guid>
+      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
