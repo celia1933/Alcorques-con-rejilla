@@ -4,6 +4,7 @@ title: "Semper Paratus: el auge del preparacionismo en España"
 image: 
 categories: [""]
 tags: [""]
+draft: true
 editor_options: 
   markdown: 
     wrap: sentence

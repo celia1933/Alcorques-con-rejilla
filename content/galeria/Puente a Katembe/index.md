@@ -3,6 +3,8 @@ date: "2020-01-21"
 image: katembe.jpg
 title: Puente a Katembe
 type: gallery
+draft: true
+
 ---
 
 ![](1.JPG)

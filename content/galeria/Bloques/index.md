@@ -9,3 +9,6 @@ Brasília fue oficialmente inaugurada el 21 de abril de 1960. Catalogada en aque
 
 ![](IMG_4898.JPG) ![](brasilia(1).JPG) ![](IMG_4901.JPG) ![](bsb.JPG) ![](IMG_4849.JPG) ![](IMG_4854.JPG) ![](IMG_4871.JPG) ![](IMG_4834.JPG) ![](IMG_4828.JPG)
 ![](IMG_4830.JPG) ![](IMG_4860.JPG) 
+
+
+

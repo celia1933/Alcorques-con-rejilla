@@ -3,6 +3,8 @@ date: "2020-01-23"
 image: portada.cuadrada.jpg
 title: Kalendas
 type: gallery
+draft: true
+
 ---
 
 ![](ii.png)
