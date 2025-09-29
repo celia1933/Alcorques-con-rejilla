@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/blog/acr6/themes/hugo-theme-console/layouts/_default"
+    "path": "~/blog/acr6/content/articulos/El puzzle y el territorio"
 }

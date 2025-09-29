@@ -1,0 +1,20 @@
+---
+title: "index"
+output: html_document
+---
+
+<blockquote class="twitter-tweet">
+
+<p lang="es" dir="ltr">
+
+Para una asignatura de mi máster estoy investigando el concepto de reciclaje de imágenes: la idea de resignificar y utilizar las fotografías que ya existen en lugar de producir más. HILO 👇👇🎞🧶👇 <a href="https://t.co/YzP2jxx6ml">pic.twitter.com/YzP2jxx6ml</a>
+
+</p>
+
+— Celia (@celiamarquez_) <a href="https://twitter.com/celiamarquez_/status/1340962603934298112?ref_src=twsrc%5Etfw">December 21, 2020</a>
+
+</blockquote>
+
+```{=html}
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```

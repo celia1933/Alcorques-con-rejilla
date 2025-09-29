@@ -5,21 +5,49 @@
         
         <url>
             <loc>http://localhost:4321/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:4321/articulos/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>http://localhost:4321/categories/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4321/articulos/el-puzzle-y-el-territorio/</loc>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4321/categories/reportaje/</loc>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4321/tags/rural/</loc>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:4321/tags/</loc>
+            <lastmod>2024-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -32,63 +60,35 @@
     
         
         <url>
-            <loc>http://localhost:4321/tags/plot/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <loc>http://localhost:4321/galeria/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:4321/categories/r/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <loc>http://localhost:4321/galeria/kalendas/</loc>
+            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:4321/tags/r-markdown/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:4321/tags/regression/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:4321/tags/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:4321/fotorreportaje/catedral/</loc>
+            <loc>http://localhost:4321/galeria/catedral/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:4321/fotorreportaje/</loc>
+            <loc>http://localhost:4321/galeria/puente-a-katembe/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>http://localhost:4321/fotorreportaje/puente-a-katembe/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>http://localhost:4321/fotorreportaje/bloques/</loc>
+            <loc>http://localhost:4321/galeria/bloques/</loc>
             <lastmod>2020-01-07T00:00:00+00:00</lastmod>
         </url>
         
@@ -102,7 +102,7 @@
     
         
         <url>
-            <loc>http://localhost:4321/articulos/el-puzzle-y-el-territorio/</loc>
+            <loc>http://localhost:4321/articulos/ejercicio-anaer%C3%B3bico-y-diabetes/</loc>
             <lastmod>2019-07-01T00:00:00+00:00</lastmod>
         </url>
         

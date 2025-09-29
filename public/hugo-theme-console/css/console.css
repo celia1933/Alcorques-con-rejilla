@@ -248,6 +248,32 @@ figure {
     z-index: 400;
     padding-top: 0;
 }
+/* Eliminar solo el margen superior entre el título (h2) y la descripción (p) en un mismo post */
+.post-content h2 {
+    margin-bottom: 0; /* Elimina el margen inferior del título */
+}
+
+.post-content p {
+    margin-top: 0 !important; /* Elimina el margen superior del párrafo sin afectar el margen inferior */
+}
+
+/* Mantener un margen entre los posts */
+.post {
+    margin-bottom: 20px; /* Ajusta este valor según el espacio que quieras entre los posts */
+}
+
+
+
+/* Elimina márgenes adicionales de .post */
+.post {
+    margin: 0;
+}
+
+/* Enfócate también en los márgenes alrededor de la fecha si es necesario */
+.posts-list .date {
+    margin: 0;
+    padding: 0;
+}
 
 @media only screen and (max-width: 850px) {
     .site-name {
@@ -311,4 +337,43 @@ figure {
         margin-top: 50px;
         padding-top: 5px;
     }
+
+}
+.image-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.image-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 10px 20px;
+  font-size: 1.2em;
+  text-align: center;
+  opacity: 0;
+  transition: opacity 0.3s ease
+ 
+  
+}
+
+.image-container:hover .image-overlay {
+  opacity: 1;
+}
+
+.post-content h2 {
+  margin-bottom: 0 !important;
+}
+
+.post-content h2 + p {
+  margin-top: 0 !important;
 }

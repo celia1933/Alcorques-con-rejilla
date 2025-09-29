@@ -6,14 +6,6 @@
     <description>Recent content in R on Alcorques con rejilla</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/r/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Las Kalendas de Aliste</title>
-      <link>http://localhost:4321/articulos/las-kalendas-de-aliste/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/articulos/las-kalendas-de-aliste/</guid>
-      <description>&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

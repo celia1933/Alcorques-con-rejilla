@@ -1,7 +1,7 @@
 baseurl = "https://example.com/"
 title = "console-demo"
 theme = "hugo-theme-console"
-languageCode = "en-us"
+languageCode = "es"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)

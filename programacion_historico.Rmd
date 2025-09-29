@@ -12,4 +12,125 @@ knitr::opts_chunk$set(echo = TRUE)
 ## 
 
 
+```{r}
+
+```
+
+```{bash}
+git init
+
+```
+
+```{bash}
+git remote add origin https://github.com/celia1933/alcorques-con-rejilla.git
+
+```
+```{bash}
+git add .
+
+```
+
+```{bash}
+git config --global core.autocrlf input
+
+```
+
+```{bash}
+git commit -m "Configuración de saltos de línea adecuada"
+
+```
+```{bash}
+git config --global user.name "Celia"
+git config --global user.email "celiamarquezcoello@gmail.com"
+```
+
+
+
+
+```{bash}
+git push -u origin master
+
+```
+
+```{bash}
+git branch -m master main
+
+```
+
+```{bash}
+git push origin -u main
+
+```
+
+```{bash}
+git pull origin master  # Si tu rama remota principal es 'master'
+
+```
+
+
+```{bash}
+git branch -m master main
+
+```
+
+
+
+
+```{bash}
+git push -u origin main
+
+```
+```{bash}
+git push origin --delete master
+
+```
+
+```{bash}
+git push -u origin main
+
+```
+```{bash}
+git pull origin main --allow-unrelated-histories
+
+```
+```{bash}
+git checkout main
+git checkout -b gh-pages
+
+```
+
+```{bash}
+ hugo
+
+```
+
+
+```{r}
+system("hugo version")
+
+```
+
+
+
+```{bash}
+hugo --cleanDestinationDir
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

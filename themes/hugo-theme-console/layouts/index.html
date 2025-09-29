@@ -1,9 +1,14 @@
 {{ define "main" }}
 
+<!-- Imagen de encabezado -->
+<div class="header-image">
+  <img src="banner.png" alt="banner.png" class="img-responsive">
+</div>
+
 <h1>Acerca de</h1>
 
 <p>
-Alcorques con Rejilla es un espacio dedicado la experimentación en torno al género periodístico, creado y editado por Celia Márquez Coello.  <a href="acerca-de/">(cuéntame más)</a>
+Te damos la bienvenida a Alcorques con rejilla. <a href="acerca-de/">(cuéntame más)</a>
 </p>
 <h1>Últimos artículos</h1>
 
@@ -13,29 +18,41 @@ Alcorques con Rejilla es un espacio dedicado la experimentación en torno al gé
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
                 {{ .Summary }}
             </p>
-        </div>    
+               </div>   
     {{ end }}
-{{ end }}
-</div>
 
-<h1>Fotorreportajes</h1>
+{{ end }}
+
+</div>
+<a href="articulos/">(ver todos)</a>
+</p>
+
+<h1>Galería</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/fotorreportaje" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
+{{ with .Site.GetPage "/galeria" }}
+  {{ range first 3 (sort .Data.Pages "Date" "desc") }}
+    {{ $image := .Page.Resources.GetMatch .Params.image }}
+    {{ if $image }}
+      {{ $thumb := $image.Resize "400x" }}
+      <div class="image-container">
+        <a href="{{ .Permalink }}" class="image-link">
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="gallery-image">
+          <div class="image-overlay">{{ .Title }}</div>
         </a>
+      </div>
     {{ end }}
+  {{ end }}
 {{ end }}
 </div>
+<a href="galeria/">(ver todos)</a>
+</p>
 
 
 {{ end }}
+
+
+

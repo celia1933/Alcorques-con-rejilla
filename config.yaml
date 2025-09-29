@@ -2,6 +2,9 @@ baseurl: https://example.com/
 title: Alcorques con rejilla
 theme: hugo-theme-console
 languageCode: es
+taxonomies:
+  tag: tags
+  category: categories
 params:
   animateStyle: animated zoomIn fast
   navlinks:
@@ -9,6 +12,10 @@ params:
       url: acerca-de/
     - name: artículos/
       url: articulos/
-    - name: fotorreportaje/
-      url: fotorreportaje/
+    - name: galería/
+      url: galeria/
   titleCutting: yes
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

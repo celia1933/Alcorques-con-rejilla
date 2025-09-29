@@ -1,5 +1,29 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-{{ .Content }}
-{{ end }}
+<main>
+  <article>
+    <h1>{{ .Title }}</h1>
 
+    {{ .Content }}
+
+    {{ if or .Params.categories .Params.tags }}
+      <p>
+        {{ with .Params.categories }}
+          <strong>Categorías:</strong>
+          {{ range . }}
+            <a href="{{ "/categories/" | relURL }}{{ . | urlize }}/" class="post-category">#{{ . }}</a>
+          {{ end }}
+          <br>
+        {{ end }}
+
+        {{ with .Params.tags }}
+          <strong>Etiquetas:</strong>
+          {{ range . }}
+            <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="post-tag">#{{ . }}</a>
+          {{ end }}
+        {{ end }}
+      </p>
+    {{ end }}
+
+  </article>
+</main>
+{{ end }}
