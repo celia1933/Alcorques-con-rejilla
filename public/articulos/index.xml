@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articulos on Alcorques con rejilla</title>
+    <link>https://example.com/articulos/</link>
+    <description>Recent content in Articulos on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/articulos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El puzzle y el territorio</title>
+      <link>https://example.com/articulos/el-puzzle-y-el-territorio/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/articulos/el-puzzle-y-el-territorio/</guid>
+      <description>&lt;p&gt;Según la Real Academia Española, en español la palabra &amp;ldquo;puzle&amp;rdquo; es un sinónimo de la primera acepción de la palabra &amp;ldquo;rompecabezas&amp;rdquo;, es decir: &amp;ldquo;Juego que consiste en componer determinada figura combinando cierto número de pedazos de madera o cartón, en cada uno de los cuales hay una parte de la figura&amp;rdquo;. La palabra &amp;lsquo;rompecabezas&amp;rsquo; también puede referirse a un &amp;ldquo;problema o acertijo&amp;rdquo; o a un arma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bailar en el desierto</title>
+      <link>https://example.com/articulos/bailar-en-el-desierto/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/articulos/bailar-en-el-desierto/</guid>
+      <description>&lt;p&gt;Los Arnau, familia aragonesa propietaria del festival de los Monegros, han vivido durante cinco generaciones ligados al mundo del entretenimiento en España. Su historia, plasmada en palabras por Juan Arnau en Bailar en el desierto (Grijalbo, 2023), recorre la evolución del mundo de la noche desde los cabarés del siglo XIX hasta las fiestas de ElRow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Las Kalendas de Aliste</title>
+      <link>https://example.com/articulos/las-kalendas-de-aliste/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://example.com/articulos/las-kalendas-de-aliste/</guid>
+      <description>&lt;p&gt;En San Vicente de la Cabeza, un pueblo de la región de Aliste (Zamora), un grupo de jóvenes resucita su mascarada popular: El Atenazador. Recientemente, la Junta de Castilla y León ha iniciado los trámites para convertir esta fiesta &amp;ndash;cuyos orígenes se remontan a las antiguas &amp;lsquo;kalendas&amp;rsquo; romanas&amp;ndash; en Bien de Interés Cultural.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

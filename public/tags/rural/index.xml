@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rural on Alcorques con rejilla</title>
+    <link>https://example.com/tags/rural/</link>
+    <description>Recent content in Rural on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
+    <atom:link href="https://example.com/tags/rural/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las Kalendas de Aliste</title>
+      <link>https://example.com/articulos/las-kalendas-de-aliste/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <guid>https://example.com/articulos/las-kalendas-de-aliste/</guid>
+      <description>&lt;p&gt;En San Vicente de la Cabeza, un pueblo de la región de Aliste (Zamora), un grupo de jóvenes resucita su mascarada popular: El Atenazador. Recientemente, la Junta de Castilla y León ha iniciado los trámites para convertir esta fiesta &amp;ndash;cuyos orígenes se remontan a las antiguas &amp;lsquo;kalendas&amp;rsquo; romanas&amp;ndash; en Bien de Interés Cultural.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
