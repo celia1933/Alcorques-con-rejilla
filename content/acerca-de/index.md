@@ -13,7 +13,7 @@ Gracias a este artículo aprendí dos cosas. La primera, *qué* es un alcorque: 
 
 Soy Celia Márquez Coello, periodista. Graduada en Periodismo y Humanidades por la Universidad Carlos III de Madrid y master de inverstigación en Estudios Culturales por la misma universidad. Beca MAEC-AECID de gestión cultural, actualmente trabajo en comunicación corporativa, en el sector de las organizaciones de pacientes.
 
-No hay ninguna razón específica para crear este blog. Simplemente subiré aquí algunos y reportajes que ya he publicado para diferentes medios, así como algunos otros temas nuevos. Estoy interesada en la relación entre tecnología y cultura, la adaptación de las comunidades a las nuevas realidades climáticas y el papel de las humanidades para dar un sentido a los procesos de cambio tecnológico a los que asistimos. Un poco en todo, vamos.
+No hay ninguna razón específica para crear este blog. Simplemente subiré aquí algunos y reportajes que ya he publicado para diferentes medios, así como algunos otros temas nuevos. Estoy interesada en la relación entre tecnología y cultura, la adaptación de las comunidades a las nuevas realidades climáticas y el papel de las humanidades para dar un sentido a los procesos de cambio tecnológico a los que asistimos.
 
 **Arquitectura**
 
