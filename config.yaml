@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseURL: "https://celia1933.github.io/Alcorques-con-rejilla/"
 title: Alcorques con rejilla
 theme: hugo-theme-console
 languageCode: es
@@ -8,12 +8,12 @@ taxonomies:
 params:
   animateStyle: animated zoomIn fast
   navlinks:
-    - name: acerca de/
-      url: acerca-de/
-    - name: artículos/
-      url: articulos/
-    - name: galería/
-      url: galeria/
+    - name: "Acerca de"
+      url: "acerca-de"
+    - name: "artículos"
+      url: "articulos"
+    - name: "galería"
+      url: "galeria"
   titleCutting: yes
 markup:
   goldmark:

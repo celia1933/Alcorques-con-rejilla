@@ -15,12 +15,8 @@ Soy Celia Márquez Coello, periodista. Graduada en Periodismo y Humanidades por 
 
 No hay ninguna razón específica para crear este blog. Simplemente subiré aquí algunos y reportajes que ya he publicado para diferentes medios, así como algunos otros temas nuevos. Estoy interesada en la relación entre tecnología y cultura, la adaptación de las comunidades a las nuevas realidades climáticas y el papel de las humanidades para dar un sentido a los procesos de cambio tecnológico a los que asistimos.
 
-**Arquitectura**
-
-He creado este blog utilizando Github como base de datos y la plantilla Hugo Theme Console del repositorio de plantillas para webs estáticas Hugo. Estoy aprendiendo, así que mi idea es ir poco a poco añadiendo nuevas herramientas en la web, como por ejemplo una cajita para que podáis escribir vuestas "opiniones".
-
 <!-- Información del autor -->
 
 ![](images/clipboard-2843821506.png)
 
-<p><br> <a href="mailto:celiamarquezcoello@gmail.com">celiamarquezcoello\@gmail.com</a><br> <a href="mailto:alcorquesconrejilla@gmail.com">alcorquesconrejilla\@gmail.com</a></p>
+<p><br> <a href="mailto:celiamarquezcoello@gmail.com">celiamarquezcoello\@gmail.com</a><br> `<a `{=html}
