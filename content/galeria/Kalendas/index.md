@@ -4,7 +4,6 @@ image: portada.cuadrada.jpg
 title: Kalendas
 type: gallery
 draft: true
-
 ---
 
 ![](ii.png)

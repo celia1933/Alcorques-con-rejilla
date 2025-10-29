@@ -19,4 +19,6 @@ No hay ninguna razón específica para crear este blog. Simplemente subiré aqu�
 
 ![](images/clipboard-2843821506.png)
 
-<p><br> <a href="mailto:celiamarquezcoello@gmail.com">celiamarquezcoello\@gmail.com</a><br> `<a `{=html}
+<p>
+
+<br> <a href="mailto:celiamarquezcoello@gmail.com">celiamarquezcoello\@gmail.com</a><br> `<a`{=html}

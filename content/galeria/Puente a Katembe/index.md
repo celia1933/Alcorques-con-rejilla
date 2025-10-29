@@ -4,7 +4,6 @@ image: katembe.jpg
 title: Puente a Katembe
 type: gallery
 draft: true
-
 ---
 
 ![](1.JPG)
