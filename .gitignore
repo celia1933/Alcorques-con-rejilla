@@ -47,3 +47,13 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Hugo generated files
+/public
+/resources/_gen
+
+# System files
+.DS_Store
+
+# Otros temporales
+*.log
