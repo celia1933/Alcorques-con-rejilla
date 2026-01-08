@@ -3,6 +3,7 @@ date: "2022-08-03"
 title: Bailar en el desierto 
 categories: ["Reportaje"]
 tags: ["música", "literatura"]
+draft: false
 ---
 
 Los Arnau, familia aragonesa propietaria del festival de los Monegros, han vivido durante cinco generaciones ligados al mundo del entretenimiento en España. Su historia, plasmada en palabras por Juan Arnau en Bailar en el desierto (Grijalbo, 2023), recorre la evolución del mundo de la noche desde los cabarés del siglo XIX hasta las fiestas de ElRow. <!--more-->
