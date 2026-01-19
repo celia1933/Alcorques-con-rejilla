@@ -1,14 +1,41 @@
-b{{ define "main" }}
+
+
+
+{{ define "main" }}
 <h1>{{ .Title }}</h1>
 
-{{ .PublishDate.Format "Jan. 2, 2006" }}
+<p>{{ .PublishDate.Format "Jan. 2, 2006" }}</p>
+
 {{ with .Params.linkedin }}
-    // <a href="{{ . }}">Linkedin</a>
+    <!-- <a href="{{ . }}">Linkedin</a> -->
 {{ end }}
 {{ with .Params.twitter }}
-    // <a href="{{ . }}">Twitter</a>
+    <!-- <a href="{{ . }}">Twitter</a> -->
 {{ end }}
+
 <br/><br/>
+
 {{ .Content }}
+
+<!-- Mostrar categorías -->
+{{ with .Params.categories }}
+<p>Categorías:
+{{ range . }}
+  <a class="tag" href="{{ "/categories/" | absURL }}{{ . | urlize }}">#{{ . }}</a>
+{{ end }}
+</p>
+{{ end }}
+
+
+<!-- Mostrar tags -->
+{{ with .Params.tags }}
+<p>Tags:
+{{ range . }}
+  <a class="tag" href="{{ "/tags/" | absURL }}{{ . | urlize }}">#{{ . }}</a>
+{{ end }}
+</p>
+{{ end }}
+
+
 {{ template "_internal/disqus.html" . }}
 {{ end }}

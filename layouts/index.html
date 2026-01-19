@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<!-- Imagen de encabezado -->
+<div class="header-image">
+  <img src="banner.png" alt="banner.png" class="img-responsive">
+</div>
+
+<h1>Acerca de</h1>
+
+<p>
+Te damos la bienvenida a Alcorques con rejilla. <a href="acerca-de/">(cuéntame más)</a>
+</p>
+<h1>Últimos artículos</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/articulos" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
+                <h2><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h2>
+                {{ .Summary }}
+            </p>
+               </div>   
+    {{ end }}
+
+{{ end }}
+
+</div>
+<a href="articulos/">(ver todos)</a>
+</p>
+
+<h1>Galería</h1>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/galeria" }}
+  {{ range first 3 (sort .Data.Pages "Date" "desc") }}
+    {{ $image := .Page.Resources.GetMatch .Params.image }}
+    {{ if $image }}
+      {{ $thumb := $image.Resize "400x" }}
+      <div class="image-container">
+        <a href="{{ .Permalink }}" class="image-link">
+          <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="gallery-image">
+          <div class="image-overlay">{{ .Title }}</div>
+        </a>
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>
+<a href="galeria/">(ver todos)</a>
+</p>
+
+
+{{ end }}
+
+
+

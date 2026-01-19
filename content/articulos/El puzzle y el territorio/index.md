@@ -1,44 +1,43 @@
 ---
 date: "2024-08-08"
-title: El puzzle y el territorio
+title: Entrevista con un aficionado a los puzles
 image: "images/Elegia2.jpg"
-categories: ["reportaje"]
+categories: ["Entrevista"]
 tags: ["juegos"]
+draft: "false"
 ---
 
-Según la Real Academia Española, en español la palabra "puzle" es un sinónimo de la primera acepción de la palabra "rompecabezas", es decir: "Juego que consiste en componer determinada figura combinando cierto número de pedazos de madera o cartón, en cada uno de los cuales hay una parte de la figura". La palabra 'rompecabezas' también puede referirse a un "problema o acertijo" o a un arma.
+Esto fue lo que Marzus (Max) nos contó sobre su gran pasión. 
 
 <!--more-->
 
 {{< figura src="images/elegia.jpg" alt="Descripción de la imagen" caption="Elegía por un almirante muerto. Ravensburger. 1.500 piezas. Fuente: Galería de Marzus. " >}}
 
+*En diez años puede conseguirse todo, y lo conseguirá usted. Pero ¿por qué quiere dominar a fondo un arte que, espontáneamente, le es completamente indiferente?*
+
+*No me interesan las acuarelas, sino lo que quiero hacer con ellas.*
+
+*Y ¿Qué quiere hacer con ellas?*
+
+*Puzles, naturalmente, contestó Bartlebooth sin la menor vacilación.* 
+
+ ‘La vida instrucciones de uso’, George Perec, 
+
+Según la Real Academia Española, en español la palabra "puzle" es un sinónimo de la primera acepción de la palabra "rompecabezas", es decir: "Juego que consiste en componer determinada figura combinando cierto número de pedazos de madera o cartón, en cada uno de los cuales hay una parte de la figura". La palabra 'rompecabezas' también puede referirse a un "problema o acertijo" o a un arma.
+
 El primer recuerdo de algo parecido a un puzle es ese juego que consistía en introducir un círculo, un triángulo o un cuadrado en el interior de un espacio hueco, tallado con las medidas exactas de la pieza. Así es como aprendimos las formas. El círculo dentro del círculo, el cuadrado en el cuadrado, el triángulo también en su sitio. A causa de este y otros pasatiempos similares, crecimos con la satisfactoria mentirijilla del ensamblaje perfecto.
 
 Los primeros puzzles *pictóricos* --en inglés existe una palabra para denominarlos, *jigsaw puzzles*, pero en español es necesario hacer la distinción-- nacieron, precisamente, como materiales pedagógicos. El hallazgo se lo debemos a John Spilsbury, un constructor de mapas británico a quien en alguna fecha próxima a 1760 se le ocurrió dividir una imagen del continente europeo en pequeños fragmentos, con el objetivo de facilitar a sus alumnos el estudio de la geografía.
 
-Así es, al menos, como lo cuenta la autora Anne D. Williams en su libro *The Jigsaw Puzzle: Piecing Together a History* (Berkley Books, 2004). A lo largo de 272 páginas, esta experta en historia del juguete desgrana la evolución del pasatiempo, su estrecha vinculación con la clase social más acomodada y su popularización en tiempos de crisis.
-
-Ella nos cuenta lo siguiente: que hubo que esperar hasta 1900 para que los puzles se popularizaran entre los seres humanos adultos de Estados Unidos. Concretamente, los seres humanos adultos ricos. Y es que el puzle fue, al principio, una actividad de acceso muy exclusivo, no solamente por el elevado coste del propio producto sino también por el tiempo libre que requería su ensamblaje.
-
-Este es el drama de Susan Alexander Kane, protagonista de la película Ciudadano Kane (1941) quien sueña, desde el lujoso palacio en el que su marido multimillonario Charles Foster Kane la mantiene encerrada, con la ajetreada vida en Nueva York. Imagina las idas y venidas de la gente en los teatros, los rostros felices en una ciudad que no duerme; y mientras, arma ese gran rompecabezas que no llega a terminar.
+Así es, al menos, como lo cuenta la autora Anne D. Williams en su libro *The Jigsaw Puzzle: Piecing Together a History* (Berkley Books, 2004). Hubo que esperar hasta 1900 para que los puzles se popularizaran entre los adultos. A principio, fue una actividad de acceso muy exclusivo, no solamente por el elevado coste del propio producto sino también por el tiempo libre que requería su ensamblaje. Este es el drama de Susan Alexander Kane, protagonista de la película Ciudadano Kane (1941) quien sueña, desde el lujoso palacio en el que su marido multimillonario Charles Foster Kane la mantiene encerrada, con la ajetreada vida en Nueva York. Imagina las idas y venidas de la gente en los teatros, los rostros felices en una ciudad que no duerme; y mientras, arma ese gran rompecabezas que no llega a terminar.
 
 Con la Gran Depresión de 1929, Estados Unidos asistió a un nuevo resurgir de los puzles llegando a alcanzar los 10 millones de dólares por semana en ventas. Un boom que la autora atribuye [en esta publicación de Internet](https://www.mgcpuzzles.com/mgcpuzzles/puzzle_history/index.htm) no solo a un abaratamiento de los puzles con la aparición del troquelado en cartón, sino también a cierta tristeza y necesidad de éxitos a pequeña escala. ¿Es esta la misma razón por la cual las búsquedas en Google de "jigsaw puzzles" se dispararon en marzo de 2020, durante los meses del confinamiento?
 
 {{< figura src="images/citizenkane.jpg" alt="Descripción de la imagen" caption="Fotograma de la película Ciudadano Kane (1941)" >}}
 
-**Con todo detalle**
-
-Fue precisamente durante la pandemia de Covid 19, esta vez en España, cuando el catalán Alejandro Clemente León no solamente decidió volcarse al completo en su pasión por los puzles sino que, además, descubrió que era el mejor. Ya un año atrás, en 2019, había asistido a su primer concurso de *speedpuzzle* en Viladecans, Barcelona. "Lo vi de casualidad en internet, porque me lo pasó una amiga", recuerda. "Cuando fui y vi que había tanta gente y lo profesional que era pensé: 'esto es algo serio'".
-
-Durante el confinamiento, con tanto tiempo para entrenar, Clemente León dio su gran salto a la competición. Solo dos años después, se convirtió en el ganador mundial del puzle 2022, y lo ha sido cuatro veces consecutivas del campeonato nacional. Su puzle favorito es el guernica de Picasso, de 3.000 piezas. Lo hizo con 12 años.
-
-"A la hora de competir, siempre utilizo la misma técnica: doy la vuelta a todas las piezas y separo primero las piezas del marco. Hay gente que primero necesita hacer el marco; hay otros que lo dejan para el final. En mi caso, hago el puzle por zonas. Yo no clasifico. Tengo todas las piezas dadas la vuelta. Si por ejemplo el puzzle tiene una zona de cielo, cojo todas las piezas de cielo, si coincide que hay piezas de marco también las monto, y luego me voy a otra zona con otro color. Si en algun momento veo que no estoy yendo fino, ahí si que cojo todas las piezas del marco y lo hago, como una forma de desbloquear".
-
 Todos hemos escuchado de pequeños la historia del esquimal que, en el polo norte, aprende a diferenciar 30, 40 o 50 tipos de color blanco. Lo mismo sucede con el puzle: después de un tiempo, puede una percibir las diferentes texturas y patrones de las piezas con una facilidad en un primer momento inconcebible. De repente, dos piezas idénticamente azules se convierten en dos elementos claramente diferenciados; mientras que una es de color azul del cielo, la otra se vuelve del color del agua o del espejo que sostiene una persona. 
 
-{{< figura src="images/Babel.jpg" alt="Descripción de la imagen" caption="La Torre de Babel, 1563 - 9000 - Ravensburger. Fuente: Galería de Marzus. " >}}
-
-### Epílogo: **Entrevista con un constructor de puzzles**
+## **Entrevista con un constructor de puzzles**
 
 Esto fue lo que Marzus (Max) nos contó sobre su gran pasión: 
 
@@ -69,6 +68,8 @@ Realmente no puedo explicarlo. Sí recuerdo, sin embargo, que en secundaria me g
 Sí, me considero coleccionista, aunque en comparación con hace unos años, mi actividad de búsqueda (y composición) de puzles ha disminuido enormemente, tanto por falta de tiempo como porque las pasiones van y vienen. A veces están vivas como una llama, a veces duermen un tiempo bajo las cenizas a la espera de reavivarse.
 
 Me encantan los puzles antiguos, tanto por su forma como por la textura de las piezas, ambas diferentes de las de los puzles actuales, tanto por sus colores, más vivos, como por la calidad de las juntas. Generalmente los busco en mercadillos online, sobre todo extranjeros. He comprado mucho en el extranjero, y mucho en Extremo Oriente (Japón sobre todo), pero es un mercado muy caro.
+
+{{< figura src="images/Babel.jpg" alt="Descripción de la imagen" caption="La Torre de Babel, 1563 - 9000 - Ravensburger. Fuente: Galería de Marzus. " >}}
 
 ***¿Alguna vez ha descubierto que le faltaba una pieza justo al terminar?***
 

@@ -1,4 +1,4 @@
-baseURL: "https://celia1933.github.io/Alcorques-con-rejilla/"
+baseURL: "http://localhost:1313"
 title: Alcorques con rejilla
 theme: hugo-theme-console
 languageCode: es
@@ -8,7 +8,7 @@ taxonomies:
 params:
   animateStyle: animated zoomIn fast
   navlinks:
-    - name: "Acerca de"
+    - name: "acerca de"
       url: "acerca-de"
     - name: "artículos"
       url: "articulos"
