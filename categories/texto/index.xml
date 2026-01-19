@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texto on Alcorques con rejilla</title>
+    <link>http://localhost:1313/categories/texto/</link>
+    <description>Recent content in Texto on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/texto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En la colmena</title>
+      <link>http://localhost:1313/articulos/en-la-colmena/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/en-la-colmena/</guid>
+      <description>&lt;p&gt;La Embajada de España en Brasil tiene dos entradas. La primera, orientada hacia el noroeste, está reservada para el embajador, su familia y sus invitados. La segunda, hacia el sureste, es para los trabajadores.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

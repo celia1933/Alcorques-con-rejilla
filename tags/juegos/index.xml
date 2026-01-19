@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juegos on Alcorques con rejilla</title>
+    <link>http://localhost:1313/tags/juegos/</link>
+    <description>Recent content in Juegos on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/juegos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista con un aficionado a los puzles</title>
+      <link>http://localhost:1313/articulos/el-puzzle-y-el-territorio/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/el-puzzle-y-el-territorio/</guid>
+      <description>&lt;p&gt;Esto fue lo que Marzus (Max) nos contó sobre su gran pasión. &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

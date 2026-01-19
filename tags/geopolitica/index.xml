@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geopolitica on Alcorques con rejilla</title>
+    <link>http://localhost:1313/tags/geopolitica/</link>
+    <description>Recent content in Geopolitica on Alcorques con rejilla</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 03 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/geopolitica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos a Liberland</title>
+      <link>http://localhost:1313/articulos/bienvenidos-a-liberland/</link>
+      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articulos/bienvenidos-a-liberland/</guid>
+      <description>&lt;p&gt;Criptomonedas, coches de lujo y un grupo de anarcocapitalistas utópicos orbitan en torno a una tierra pantanosa de apenas 7 km cuadrados, estrechamente vigilada por la policía croata. Liberland. Aprovechando una indeterminación jurídica en la frontera con Serbia, el publicista y político checo Vít Jedlička -hoy autoproclamado presidente- fundó junto a varios amigos este supuesto estado, sueño aspiracional de los seguidores de Milei.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
