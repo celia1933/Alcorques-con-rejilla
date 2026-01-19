@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alcorques con rejilla</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://celia1933.github.io/Alcorques-con-rejilla/categories/</link>
     <description>Recent content in Categories on Alcorques con rejilla</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://celia1933.github.io/Alcorques-con-rejilla/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Texto</title>
-      <link>http://localhost:1313/categories/texto/</link>
+      <link>https://celia1933.github.io/Alcorques-con-rejilla/categories/texto/</link>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/texto/</guid>
+      <guid>https://celia1933.github.io/Alcorques-con-rejilla/categories/texto/</guid>
       <description></description>
     </item>
     <item>
       <title>Entrevista</title>
-      <link>http://localhost:1313/categories/entrevista/</link>
+      <link>https://celia1933.github.io/Alcorques-con-rejilla/categories/entrevista/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/entrevista/</guid>
+      <guid>https://celia1933.github.io/Alcorques-con-rejilla/categories/entrevista/</guid>
       <description></description>
     </item>
     <item>
       <title>Reportaje</title>
-      <link>http://localhost:1313/categories/reportaje/</link>
+      <link>https://celia1933.github.io/Alcorques-con-rejilla/categories/reportaje/</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/reportaje/</guid>
+      <guid>https://celia1933.github.io/Alcorques-con-rejilla/categories/reportaje/</guid>
       <description></description>
     </item>
   </channel>
